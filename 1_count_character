@@ -1,3 +1,4 @@
+# input=geeksforgeeks
 
 test_str = input("enter string: ")
 
@@ -11,7 +12,7 @@ print("Count of e in GeeksforGeeks is : "
 	+ str(count))
 
 
-
+# input= "abccdefgaa"
 
 test_str = input("enter string: ")
 
